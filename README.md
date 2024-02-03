@@ -6,6 +6,9 @@ Enhancing you teaching Style
 
 This project aims to develop a novel "Immersive Empathy Trainer" – a virtual student simulator designed to help educators gain deeper understanding and empathy for the educational and emotional needs of physically challenged students. By simulating real-life interactions and emotions faced by these students, the trainer provides a unique opportunity for educators
 
+- Link to ppt
+ https://www.canva.com/login?redirect=%2Fdesign%2FDAEzq6Qfz9E%2Fq2bq0n7hv_hctvwU9Rcy8Q%2Fview%3Futm_content%3DDAEzq6Qfz9E%26utm_campaign%3Ddesignshare%26utm_medium%3Dlink%26utm_source%3Dviewer
+
 # Dependencies
 - MediaPipe: Extracts keypoints for face, hands, and pose
 - OpenCV: Accesses webcam for video input and visualizes keypoints
